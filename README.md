@@ -1,4 +1,4 @@
-Seja bem vindo(a)ao meu projeto de portfólio.
+Seja bem vindo(a) ao meu portfólio.
 
 <img width="1892" height="907" alt="image" src="https://github.com/user-attachments/assets/583149fa-425e-41a5-9c03-55007b158219" />
 
@@ -16,4 +16,4 @@ Seja bem vindo(a)ao meu projeto de portfólio.
 
 ### Jorge Fernando
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/jorge.fernando
